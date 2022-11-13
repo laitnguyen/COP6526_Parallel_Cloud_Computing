@@ -7,3 +7,4 @@
 3. Design a PySpark program to implement Prim’s algorithm for Minimum Spanning Tree for the following graph. You may define your own file format for the graph below.  (10 points)
 
 Please write a readme file for how to run your programs. 
+![image](https://user-images.githubusercontent.com/58046234/200192524-244d1ce9-73a6-47f0-a97f-85efa2a3565f.png)
